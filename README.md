@@ -12,7 +12,7 @@ And this is how it scored after I worked on it:
 
 ![image](https://github.com/topcowmoo/challenge-1-code-refractor/assets/149528212/4a2967c1-1d0c-4ace-96aa-8c337d4d3df5)
 
-### Screenshot
+## Screenshot
 
 ![image](https://github.com/topcowmoo/challenge-1-code-refractor/assets/149528212/e1cb1f23-cdcd-414d-863b-761ad0793955)
 
