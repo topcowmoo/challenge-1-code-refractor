@@ -13,11 +13,11 @@ My motivation for doing this project was to try my hand at making a website more
 
 This is what the website scored before I started:
 
-![Screenshot] (assets/images/Screenshot 2023-11-15 at 7.41.49 PM.png)
+![alt text] (assets/images/Screenshot 2023-11-15 at 7.41.49 PM.png)
 
 And this is what it looks like now:
 
-![Screenshot] (assets/images/after screen.png)
+![alt text] (assets/images/after screen.png)
 
 ## Table of Contents (Optional)
 
@@ -41,9 +41,13 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/Screenshot 2023-11-15 at 7.41.49 PM.png)
+
 
 ![Screenshot] (assets/images/Screenshot 2023-11-15 at 7.41.49 PM.png)
+
+
+https://github.com/topcowmoo/challenge-1-code-refractor/blob/dd3a2bb2ed843f52d46b01f4a8ae2aafbe2e853a/assets/images/Screenshot%202023-11-15%20at%207.41.49%E2%80%AFPM.png
 
 
 
