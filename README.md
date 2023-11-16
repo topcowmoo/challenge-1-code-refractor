@@ -11,6 +11,14 @@ Provide a short description explaining the what, why, and how of your project. U
 
 My motivation for doing this project was to try my hand at making a website more accessible. The code was given to me and I was asked to refract it, so that is what I did. I learned a lot doing this project espcially in HTML semantics, external CSS sheets and using an my browser to inspect and detect accessibility issues. 
 
+This is what the website scored before I started:
+
+![Screenshot] (assets/images/Screenshot 2023-11-15 at 7.41.49 PM.png)
+
+And this is what it looks like now:
+
+![Screenshot] (assets/images/after screen.png)
+
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -35,7 +43,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ![alt text](assets/images/screenshot.png)
 
-![alt text] (assets/images/Screenshot 2023-11-15 at 7.41.49 PM.png)
+![Screenshot] (assets/images/Screenshot 2023-11-15 at 7.41.49 PM.png)
 
 
 
